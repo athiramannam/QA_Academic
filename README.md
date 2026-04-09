@@ -3,5 +3,5 @@ Test Cases  <br>
 Defect Log  <br>
 Requirements Traceability Matrix  <br>
 SQL Queries <br>
-Schema Creation and Control in Micrososft SQL Server
+Schema Creation and Control in Micrososft SQL Server <br>
 E-R Diagram 
